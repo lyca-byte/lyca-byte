@@ -1,12 +1,19 @@
 # About Me:
 <p align="justify">
 I'm a Fresh Graduate in Biomedical Engineering and a Machine Learning Enthusiast passionate about exploring how AI and technology can be applied to solve real-world problems. <br>
-My interests lie at the intersection of Machine Learning, Computer Vision, Data Science, and Biomedical Engineering. I enjoy working on projects throughout the ML pipeline — from data preprocessing and model development to evaluation and deployment.
+My interests lie at the intersection of Machine Learning, Deep Learning  Computer Vision, Data Science, and Biomedical Engineering. I enjoy working on projects throughout the ML pipeline — from data preprocessing and model development to evaluation and deployment.
 </p>
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/darla-gempita-purba-171868419) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyca.portofolio@gmail.com) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/darla-gempita-purba-171868419)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyca.portofolio@gmail.com)  -->
+
+<a href="www.linkedin.com/in/darla-gempita-purba-171868419" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:lyca.portofolio@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
