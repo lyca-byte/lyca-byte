@@ -8,7 +8,7 @@ My interests lie at the intersection of Machine Learning, Deep Learning  Compute
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/darla-gempita-purba-171868419)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyca.portofolio@gmail.com)  -->
 
-<a href="www.linkedin.com/in/darla-gempita-purba-171868419" target="_blank">
+<a href="https://linkedin.com/in/darla-gempita-purba-171868419" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:lyca.portofolio@gmail.com" target="_blank">
