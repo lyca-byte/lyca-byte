@@ -1,33 +1,38 @@
-<h1 align="center">I'm Darla Gempita Darris Purba</h1>
+# About Me:
+<p align="justify">
+I'm a Fresh Graduate in Biomedical Engineering and a Machine Learning Enthusiast passionate about exploring how AI and technology can be applied to solve real-world problems. <br>
+My interests lie at the intersection of Machine Learning, Computer Vision, Data Science, and Biomedical Engineering. I enjoy working on projects throughout the ML pipeline — from data preprocessing and model development to evaluation and deployment.
+</p>
 
-<h5 align="center">I'm a Fresh Graduate in Biomedical Engineering and a Machine Learning Enthusiast passionate about exploring how AI and technology can be applied to solve real-world problems.
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/darla-gempita-purba-171868419) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyca.portofolio@gmail.com) 
 
-My interests lie at the intersection of Machine Learning, Computer Vision, Data Science, and Biomedical Engineering. I enjoy working on projects throughout the ML pipeline — from data preprocessing and model development to evaluation and deployment.</h5><br>
+# Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h2 align="left">Some Facts About Me</h2>
-
-- I’m currently learning **Machine Learning, Computer Vision, Biomedical AI**
-
-- How to reach me *[www.linkedin.com/in/darla-gempita-purba-171868419](www.linkedin.com/in/darla-gempita-purba-171868419)*
-
-<h2 align="left">Skillset</h2>
-
-<h3 align="left">Programming Languages:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/></p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyca-byte&show_icons=true&locale=en&layout=compact" />
-
-<h3 align="left">AI / ML:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg" width='40' height='40' title='tensorflow'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/pytorch.svg" width='40' height='40' title='pytorch'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/scikit.svg" width='40' height='40' title='scikit'/></p>
-
-<h3 align="left">Softwares:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/photoshop.svg" width='40' height='40' title='photoshop'/></p>
-
-<h3 align="left">Others:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width='40' height='40' title='arduino'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/></p>
-
-<br><hr><br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lyca-byte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=lyca-byte&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lyca-byte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
